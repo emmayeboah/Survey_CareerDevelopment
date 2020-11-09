@@ -1,0 +1,77 @@
+body{
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 1.3rem;
+  background-image: url(../images/career.jpg);
+  background-size:contain;
+  color: white;
+  font-size: 1rem;
+  }
+
+#title{
+  font-size: 45px;
+  color: black;
+  font-weight: bold;
+}
+#description{
+  color: black;
+  font-size: 20px;
+}
+
+#body{
+  width: 600px;
+  padding: 30px;
+  margin: auto;
+  border-radius: 10px;
+  text-align: left;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+}
+
+#name{
+  width: 500px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#email{
+  width: 500px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#age{
+  width: 500px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#employee-number{
+  width: 500px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#satisfied{
+  margin: 1rem;
+}
+#investment{
+  margin: 1rem;
+}
+#additional-info{
+  font-family: cursive;
+}
+#Additional{
+  border-radius: 15px;
+}
+
+#social{
+  font-family: cursive;
+  font-size: 1.1rem;
+}
+#submit{
+  margin-left: 10rem;
+  width: 300px;
+  padding: 10px;
+  border-radius: 14px;
+}
